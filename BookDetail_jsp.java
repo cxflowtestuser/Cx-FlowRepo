@@ -32,7 +32,7 @@ public class BookDetail_jsp extends HttpJspBase {
   static final String DBDriver  ="";
   static final String strConn   ="";
   static final String DBusername="";
-  //static final String DBpassword="test";
+  static final String DBpassword="test";
 
   public static String loadDriver () {
     String sErr = "";
