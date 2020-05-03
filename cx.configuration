@@ -1,0 +1,13 @@
+{
+  "additionalProperties" : {
+    "cxFlow": {
+		"filters" : {
+			"severity": ["High", "Medium"]
+		},
+		"thresholds" : {
+			"MEDIUM": 8, 
+			"LOW": 15        
+		}
+    }
+  }
+}
