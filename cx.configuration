@@ -5,7 +5,7 @@
 			"severity": ["High", "Medium"]
 		},
 		"thresholds" : {
-			"MEDIUM": 1, 
+			"MEDIUM": 10, 
 			"LOW": 15        
 		}
     }
