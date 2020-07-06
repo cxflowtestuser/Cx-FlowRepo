@@ -1,14 +1,14 @@
 {
-  "additionalProperties" : {
-    "cxFlow": {
-		"filters" : {
-			"severity": ["High", "Medium"]
-		},
-		"thresholds" : {
-			"MEDIUM": 14, 
-			"LOW": 15        
-		}
-	"bugTracker": "GitHub"
+    "additionalProperties": {
+        "cxFlow": {
+            "filters": {
+                "severity": ["High", "Medium"]
+            },
+            "thresholds": {
+                "MEDIUM": 12,
+                "LOW": 15
+            },
+            "bugTracker": "GitHub"
+        }
     }
-  }
 }
