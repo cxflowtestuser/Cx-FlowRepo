@@ -8,7 +8,7 @@
                 "MEDIUM": 12,
                 "LOW": 15
             },
-
+            bugTracker: "Github"
         }
     }
 }
