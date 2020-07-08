@@ -7,7 +7,7 @@
             "thresholds": {
                 "MEDIUM": 12,
                 "LOW": 15
-            },
+            }
         }
     }
 }
