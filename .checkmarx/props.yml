@@ -1,0 +1,8 @@
+cx-flow:
+  bug-tracker: JIRA
+  filter-severity:
+    - High
+
+github:
+  token: 84892979743927412
+  webhook-token: 819857279873
