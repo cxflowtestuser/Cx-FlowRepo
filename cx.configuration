@@ -1,1 +1,14 @@
-
+{
+    "project": "foo-${branch}",
+    "additionalProperties": {
+        "cxFlow": {
+            "filters": {
+                "severity": ["High", "Medium"]
+            },
+            "thresholds": {
+                "MEDIUM": 10,
+                "LOW": 15
+            }
+        }
+    }
+}
