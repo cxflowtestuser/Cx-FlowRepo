@@ -1,5 +1,5 @@
 {
-    "project": "CxFlow-Ltd_master",
+    "project": "CxFlow-feature-${branch}",
     "additionalProperties": {
         "cxFlow": {
             "filters": {
