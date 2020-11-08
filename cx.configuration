@@ -1,5 +1,5 @@
 {
-    "project": "foo-${branch}",
+    "project": "CxFlow-Ltd_master",
     "additionalProperties": {
         "cxFlow": {
             "filters": {
