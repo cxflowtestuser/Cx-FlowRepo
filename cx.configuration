@@ -1,5 +1,9 @@
 {
     "project": "CxFlow-feature-${branch}",
+    "sast": {
+        "engineConfiguration": "Multi-language Scan",
+        "forceScan": "true"
+    },
     "additionalProperties": {
         "cxFlow": {
             "filters": {
