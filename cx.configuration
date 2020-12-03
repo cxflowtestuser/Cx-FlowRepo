@@ -1,9 +1,5 @@
 {
     "project": "CxFlow-feature-${branch}",
-    "sast": {
-        "engineConfiguration": "Korean",
-        "forceScan": "true"
-    },
     "additionalProperties": {
         "cxFlow": {
             "filters": {
