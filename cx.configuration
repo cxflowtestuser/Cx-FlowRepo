@@ -1,7 +1,7 @@
 {
     "project": "CxFlow-feature-${branch}",
     "sast": {
-        "engineConfiguration": "Multi-language Scan",
+        "engineConfiguration": "Korean",
         "forceScan": "true"
     },
     "additionalProperties": {
