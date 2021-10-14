@@ -1,5 +1,8 @@
 {
     "project": "CxFlow-feature-${branch}",
+    
+    "SSH-Key": "SSH-key-1",
+    
     "additionalProperties": {
         "cxFlow": {
             "filters": {
